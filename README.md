@@ -1,10 +1,13 @@
-# rezume
-
 # Файл .env загружен специально.
 
 ## Project setup
 ```
 npm install
+```
+
+## Project url
+```
+https://vue-resume-create.web.app
 ```
 
 ### Compiles and hot-reloads for development
