@@ -1,5 +1,7 @@
 # rezume
 
+# Файл .env загружен специально.
+
 ## Project setup
 ```
 npm install
